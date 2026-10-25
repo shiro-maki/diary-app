@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# diary-app 日记数据（本地隐私，不进 Git）
+data/
